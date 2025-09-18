@@ -1,7 +1,3 @@
-Perfect 👍 Now you want me to make a **professional GitHub README** but specifically for your **Monitoring Project** (Prometheus + Grafana on Kubernetes/Kind + AWS EC2).
-
-Here’s a clean, recruiter-ready **README.md**:
-
 ---
 
 # 📊 Kubernetes Monitoring Project (Prometheus + Grafana)
